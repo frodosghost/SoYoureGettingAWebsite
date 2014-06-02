@@ -1,14 +1,14 @@
 # Tracking and Measurement
 
-It is by tracking and measurement that we can gauge the performance of your site and see how it’s tracking with regards to desired outcome when the site began.
+By tracking and measuring the performance of your website we can gauge how many readers are responding to your site, the pages they are visiting and if we are getting the desired results.
 
-We have previously talked about responding to the usage of your site by watching what has been seen. How do we do that, considering we cannot look over your clients’ shoulders?
+We have previously talked about responding to the usage of your site by watching what has been seen. How do we do that, considering we cannot look over your clients’ shoulders?We have previously talked about responding to the usage of your site by watching what has been seen. How do we do that, considering we cannot look over your clients’ shoulders?
 
 ## Enter the Analytics Tools
 
-The performance of your website can be tracked via analytics tools, most of which are available for free (a list is provided at the end of the chapter). These analytics services record statistics such as the pages that visitors have seen, which page they first came to when visiting your site, which was the page was their last, if their browser has been to the website before and where they got the link from. [there is something missing from this sentence. I’m not sure what it’s meant to be]
+The performance of your website can be tracked via analytics tools, most of which are available for free (a list is provided at the end of the chapter). These analytics services are implemented on your website and record statistics about each visit to your website. This statistical data can be used to get a birds-eye-view of how your website is being used and to find where changes should be made.
 
-All of the analytical information can be valuable to you in terms of how things should be on your website. Most sites will have this set up. If it’s not, then you shouldn't waste time and get it running as it will be invaluable in teaching you how people are using your website.
+All of the analytical information can be valuable to you in terms of how things should be on your website. Most sites will have this set up when it is built and launched. If it’s not, then don't waste time and get it setup on your live website, now. Analytical information will be invaluable in teaching you how people are using your website.
 
 Recording this information and doing nothing with it will not profit your business. Adjustments will need to be made to the website to stay within your marketing scheme. So how do we use this information to profit you and your business?
 
@@ -24,19 +24,21 @@ By monitoring the results of changes to your traffic with respect to updates on 
 
 ## It Works Over Time
 
-Like with a good experiment, trends can only be shown over time. It will take months to build up a starting base from when your website is first released. Short term spikes in page views will even out over time and after a few months you will have general usage statistics for your website.
+Like with a good experiment, trends can only be shown over time. It will take months to build up a starting base from when your website is first released. Short term spikes in page views will even out over time, and after a few months you will have general usage statistics for your website.
 
-Once you have the initial statistics of your website you can start making more "sure" thoughts about how people are using it. The initial data can be used to determine how to change the website to engage more people and because it is the base analysis, you can see how changes affect people and their usage of the site in the coming months.
+Once you have the initial statistics of your website you can start making more "sure" thoughts about how people are using it. The analytical data can be used to determine how to change the website so that it will engage more people. This will, in turn, encourage you to make small or large updates to your website and see how those changes affect people. Which is monitored and then updates are made. The circle continues until you hone your message and target market, hopefully engaging more clients along the way.
 
-Ongoing monitoring of this usage data will give you feedback about changes you have made. Understanding that the changes are made for a reason will take the guess work out of updates. This is why monitoring the statistics is an important part of running your website.
+Ongoing monitoring of this usage data will give you feedback about changes you have made. When changes are made based on data and reason we can feel more sure about getting outcomes. Rather than feeling annoyed by our website providing zero results, the data becomes our support structure for making changes and updates. This is why monitoring the statistics is an important part of running your website.
 
 ## What Are We Looking For?
 
-Are we after a visitor count or people making connections via forms? Do we measure clicks to social media as people taking further steps or just clicks from social media? How do we want our site to be used and what do we call "success" for our website?
+Consider what results you want from a campaign. Are you after an increasing visitor count each month, or people submitting questions via forms? Do you measure clicks to social media to share articles, or clicks from social media to read articles as more of a success? How do you want your website to be used by clients and what do you call "success" for the investment you put into your website?
 
-These questions should be considered by your business. Success comes in many forms. Results that you will want to see will be different from month to month as you change the marketing focus.
+These questions should be considered by your business. Success comes in many shapes and sizes. Results that you will want to see will be different from month to month as you change your marketing focus.
 
-Firstly you need to discuss what results you are looking for. The main increase you are trying to track is people visiting your website but further to that, you are probably looking for visitors to become paying clients. Remember analytics will not show how individuals became a client, but trends and pathways the majority of people walked upon.
+You need to determine what results you are looking for, as it will change how you present your website. Primarily you want people to visit the website, as it means you were a relevant search result, but visitors do not necessarily pay the bills. You are probably looking for visitors to become paying clients as the main goal.
+
+Remember analytics will not show how individuals became a client, but trends and pathways the majority of people walked upon, so use the trends and pathways to your advantage to guides visitors to be clients.
 
 ## How Do We Get Results?
 
@@ -46,11 +48,11 @@ While we cannot get specific about getting results for your website, there are a
 
 Data happens and you should trust it for what it is: a broad stroke view of how users are using your website. Don't guess browsing patterns. Take it as it is and make changes according to what you see.
 
-You are creating your website for your users, so serve their needs and interests.
+> You are creating your website for your users, so serve their needs and interests.
 
 We still like to guess what our users are getting from our site. We cannot get inside their minds to understand what they see. That is not our job. Every user has different intentions when they visit your site, which is why following the statistics makes sense. If you were after one user you approach them directly.
 
-Following the statistics allows us to see what is generally happening with the site, trial changes to see if it affects browsing patterns and get back to our real business of making money.
+Following the statistics allows us to see what is generally happening with the site, trial changes to see if it affects browsing patterns, and make changes to engage more visitors.
 
 By getting dwelling on the usage of a single user we can miss the overall focus of what we are achieving.
 
