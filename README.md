@@ -1,7 +1,7 @@
 # So You're Getting a Website
 
 
-This is the source code for the pamphlet, **So You're Getting a Website**. It is licensed under the Creative Commons Attribution-Non Commercial-Share Alike 3.0 license.
+This is the source code for the pamphlet, **So You're Getting a Website**. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 ## Why?
 
@@ -19,4 +19,4 @@ If you find anything in need of correction, or that is technically wrong, please
 
 ## Licence
 
-<span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">So You're Getting a Website</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">James Rickard</span> is licensed under a <br/> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">So, You're Getting a Website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://frodosghost.com" property="cc:attributionName" rel="cc:attributionURL">James Rickard</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
