@@ -1,4 +1,4 @@
-# What About SEO (Not that there's anything wrong with that)
+# Optimising for Search Engines
 
 It's here that we discuss Search Engine Optimisation. The good, the bad and the ugly.
 
@@ -9,7 +9,7 @@ Displaying towards the top of the search results list shows how relevant or impo
 To boil down Search Engine Optimisation into a three step process, just to get started, would look something like this:
 
 * Create a site that is easy for search engines to use. Your website can be searched by the "bots" that discover and remember information for search engines;
-* Update the content on a regular basis so the search engines know you are still relevant;
+* Update the content on a regular basis so the search engines know you are relevant;
 * Create site content that is compelling to read so people share links to your website.
 
 ## How Does Searching Work
@@ -22,23 +22,21 @@ After you have completed the search, you navigate the results and determine the 
 
 ## The Essence of Search Engine Optimisation
 
-What we aim to do with your site is to make the search engines understand that your website is an __authority__ on any subject that you would like people to find your business by. This means that you need to have words that talk about what you offer, how you approach it and, if region is important, in what location you work.
+The aim of your website is to make search engines understand that you are an __authority__ on the services you offer. You do this by talking about your services, what and how you offer them. Adding words to your website on a regular basis helps build this __authority__.
 
-By default your website should be an authority on your business name, so if someone searches for your business name you should appear at the top of the first page. But to engage new clients we need to be found by people who do not know your business name. We need to add content to your website that will help people find it by talking about your services, locations and professionalism in ways that people find interesting and want to share.
+Everything about improving your authority comes back to Content. If you write Good Content you will get more visitors. If you write Good Content more people will share your links, and you will get more visitors. If you update frequently you will have more Good Content, and more more people will share your links, and you will get more visitors.
 
-People will be trying to find your site with words. You need to provide words that speak to the services you offer in an effort to be found. These words then become an authority and your site links are shared at various media sites. These things all work together to build you up as a source of information on your services which the search engines will notice with their algorithms.
+Your website will be ranked in search results by how much authority you have on a subject. So your website must be updated to stay relevant to people searching for your services.
 
 "The underlying assumption is that more important websites are likely to receive more links from other websites." [How Google Search Works] [1]
 
 ## Trust the Algorithm
 
-We trust the search engine algorithms to decide what is relevant to the search we have entered. It is not a hand picked decision made by a man hiding behind a curtain. An algorithm decides how to find the __most relevant__ information for you from ever-changing variables, such as how many people clicked a link from a previous search, how many times it falls within a keyword search and if you have searched for that site before.
+We trust the search engine algorithms to decide what is relevant to the search we have entered. An algorithm decides how to find the __most relevant__ information for you from ever-changing variables, such as how many people clicked a link from a previous search, how many times it falls within a keyword search and if you have searched for that site before.
 
-We use computers to process vast amounts of information and then retrieve a list of sites that may be of interest based on a few keywords we have provided. If you think about the amount of information floating on the internet, these algorithms must be complex to connect the dots and give us results within a few seconds.
+Making your site easy to be found is therefore going to be a difficult issue to resolve, and stay on-top of over time. It will take time to build a reputation with these search engines because they have seen many websites and domains rise and fall overnight. There is no short cut.
 
-Making your site easy to be found is therefore going to be a difficult issue to resolve. If you want to remain on the "Good" side of the (search engine) Force. It will take time to build a reputation with these machines because they have seen many websites and domains rise and fall overnight. Some are frequently populated with huge amounts of data and comments while others are single page sites that have never been updated.
-
-If we choose to subvert their algorithms or sneak into good rankings by means they will disapprove of, we can end up on the dark side. Using Black Hat SEO you can end up with some excellent results and see your site at the top but if you get found out, or the algorithm is changed to catch you cheating, you get penalised and shot down the list.
+If we choose to subvert the search engine algorithms or sneak into good rankings by means that are disapproved, we can end up on the dark side. Using Black Hat SEO you can end up with some excellent results and see your site at the top but if you get found out, or the search algorithm is changed to catch you cheating, you get penalised and shot down the list.
 
 ## Black Hat Operations
 
@@ -48,11 +46,11 @@ The promise of magical rankings and an excellent position on search results page
 
 ## The Long Term
 
-We see Search Engine Optimisation as a long-term goal, with no quick solutions. The risk is too great for getting good results too fast. By following the process below we aim to avoid the blacklist and build a great reputation for your website with search algorithms.
+Search Engine Optimisation is a long-term investment, with no quick solutions. The risk is too great for getting good results too fast. By following the process below you can avoid the blacklist and build a great reputation for your website with search algorithms.
 
-* We make the code friendly for search engines to read what your site is saying, so the robots who browse your website, and there will be many, can help real people find what they are looking for;
-* We encourage changes and updates to your website, so the search engine algorithms will think it is relevant to content for which people are searching;
-* The more your page is shared by people not associated with your business, the more the algorithms think it is relevant for people searching.
+* Make the code friendly for search engines to read what your site is saying. This helps the robots who browse your website to find what they are looking for;
+* Change and Update your website, so the search engine algorithms will think it is relevant to content for which people are searching;
+* Write good content to engage people and help them to share it.
 
 
 [1]: https://www.google.com/competition/howgooglesearchworks.html "How Google Search Works"
