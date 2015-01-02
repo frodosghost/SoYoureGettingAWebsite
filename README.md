@@ -3,6 +3,10 @@
 
 This is the source code for the pamphlet, **So You're Getting a Website**. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
+## About this Book
+
+This book has been made over time as we have been responding to clients questions about getting a website and what they should be aware of. It has grown as a resource and we wanted to make it available to clients before they were getting started with a new website.
+
 ## Why?
 
 I have spent hours writing emails to clients detaling the ins-and-outs of gaining returns for the websites I have created for them. After a while I knew I writing the same things over and over again and it was time to put the words into one place, with the aim of becoming a pamphlet I can hand out to clients before we work together.
