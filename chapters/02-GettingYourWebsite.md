@@ -1,38 +1,34 @@
 # Getting Your Website
 
-In this chapter we will be considering if you need a website in the first place.
+> In this chapter we will be considering if you need a website in the first place.
 
 ## Why Do you Need a Website?
 
 As a business it is becoming harder to exist without a website on the internet. People are searching directly online to find their local businesses. While some people rely on old-style search directories, more and more are looking for businesses with search engines like Google, Bing or Yahoo.
 
-The shift away from old-style marketing media, like the “good-old” paper-based search directories, is a move towards an individual taking responsibility for finding providers of the services they need. Gone are the days of big businesses making an annual compendium of local services for you to search from. With people searching directly it is your responsibility to be found when and where they are looking.
+The shift away from old-style marketing media, like the “good-old” paper-based search directories, is a move towards an individual taking responsibility for finding providers of the services they need. This change, using the internet to find services, means it is the responsibility of the business to be available where people are looking.
 
 > People are changing the ways they look for your skill or service and it is up to you to be found when people go looking.
 
-You need a website to exist in the largest search directories in the world. You need a website because it is an easy way to show what you do to a broader market. With the internet you can broaden your influence, creating a stronger brand for your business.
+It has become your responsibility to market yourself online. As it is similar to a marketing campaign, it helps to consider the business expense similarly, because it will help you grasp the size of the project before you begin down that road.
+
+To be honest, your company may not need a website or you may not be ready to own one. After all, your business has been running fine up until now. What are you likely to gain benefit from having a website, anyway? Would you be better off marketing in some other form of media?
 
 ## Marketing Tool in Your Belt
 
-A good website is a marketing tool. A good website will attract clients, teach people about your services, present a better business facade than your competitors and offer people a way to get in contact with you.
+If you are using your website correctly then it is going to be a marketing tool. It could be made to attract clients, teach people about your services, present a better business facade than your competitors or simply offer people a way to get in contact with you.
 
-> As soon as you decide to get a website you have made a marketing decision
+> As soon as you decide to get a website you have made a marketing decision.
 
 The creation of a website is an important step because you are expanding the reach of your business. You are choosing to be in charge of the online representation and Digital Brand to build around your business.
 
-## What Does It Cost?
+While getting a website is fairly simple (as it is setup by web professionals), the ongoing maintenance and update schedule is often not considered when first starting with a website. Most businesses do not account for the additional hours and staff required to keep a site maintained and working well for them.
 
-Some providers will give you a website for under $1,000, if you are lucky you could find a provider to sell a website for $500. This will get you online, but it will not guarantee you online success. Getting a website is a long term investment. Good, ongoing returns do not just happen because you own a internet domain, they are established and built as you invest more time and effort into an online presence.
+## Before Starting
 
-Consider the amount of money your business would invest in a long term marketing campaign, building a successful internet website would be priced similarly. The good thing about a website is that the cost can be spent when you have the money available. You can also invest time and money into areas of the website that are engaging the most people.
+Before setting out upon this long and winding path, you should weigh the benefits for owning a successful website against the risk and effort - before it costs you money. Owning a website is not a secret key to finding all the clients your business needs to stay operational. It’s an investment, and as such, should fit within a marketing strategy that you have decided upon.
 
-The ongoing maintenance costs are essential in establishing a relevant online brand. Most businesses do not account for the additional hours required to keep a site maintained and up-to-date. New posts, writing or sourcing valuable information, engaging with clients, followup from enquiries; all these items add up over time. The initial investment gets you a 'house', then you have to make it your own.
-
-## Do You Really Want a Website?
-
-Before setting out you should weigh the benefits for owning a successful website against the risk and effort - before it costs you money. Owning a website is not a secret key to getting clients, it's an investment, and as such, you should consider it a marketing expense.
-
-Having a website will increase work for you and your company in both time and resources. Not only is there the initial cost of setting up the website, there are ongoing costs for you to keep it updated and relevant.
+Having a website will increase work for you and your company in both time and resources. To build it you will need words, images, time and ideas to build upon. That’s only the beginning. Once it is built, the website will need to be updated and monitored, otherwise it will fall from relevancy into the abyss where all static websites go to die. Then, somewhere along the line, you will curse the day you exchanged real money for a failed website.
 
 Start by asking a few questions about your website:
 
@@ -41,10 +37,12 @@ Start by asking a few questions about your website:
 * What will you class as a successful website?
 * What will you use to measure the success or failure?
 
-These questions help you to look at the website more as a marketing expense. An untouched website gets a very small return on investment. Your website should be updated frequently to keep it relevant. Remember it is a tool in your belt, not a magic wand.
+These questions help you to look at the website as the marketing strategy it should be. An untouched website gets a very small return on investment. Your website should be updated frequently to keep it relevant and to connect with new or existing customers. Remember it is a tool in your belt, not a magic wand to wave and bring in new business.
+
+When your website is seen as a marketing tool, you can factor it into the running of your business. How do you plan to use your website? Will you update the news regularly? Who will be in charge of updating the website? How will you make people aware of updates? Will staff have hours allocated to update the site?
 
 > Remember: Benefits resulting from the site are directly related to the effort put in.
 
-The ongoings costs should be factored into the running of your business. How do you plan to use your website? Will you update the news regularly? Who will be in charge of updating the website? How will you make people aware of updates? Will staff have hours allocated to update the site?
+Having a website creates more work and uses more resources within your company. While this is not a necessarily a bad thing, it is a natural part of the process. Performance is only achieved when changes are being made, when the process is being fine-tuned; if you sit on the couch for hours at a time, there should be little surprise you are not getting fitter.
 
-Take some time to consider the investment. We talk about costs but they are just the beginning, there is a lot of effort the business has to put in to make a return on investment. If it sounds like too much work, then there is little point in continuing down this path. Put your logo onto a white webpage and leave it at that.
+Take some time to consider the investment. The initial and ongoing website costs are just the beginning, there is a lot effort the business has to put in to make a return on investment. If it sounds like too much work, then there is little point in continuing down this path. Put your logo onto a white webpage and leave it at that.
